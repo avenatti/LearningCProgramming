@@ -2,7 +2,7 @@
 _I'm documenting my experience teaching myself the C programming language. Hopefully you can learn from experiences (good or bad) and optimize your own path. I will explain each resource, note the cost, time commitment, rating (scale from 1-10 where higher numbers are better), and the days I actually made progress._
 <p align="center">
   <br/>
-<em>I want to adopt the folowing objective mindset before we begin...</em>
+<em>I want to adopt the following objective mindset before we begin...</em>
   <br/>
   <br/>
   <img src="/Img/download.png" width="225" height="225" style="display: block; margin: 0 auto">
