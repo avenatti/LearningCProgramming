@@ -13,7 +13,7 @@ https://dev.to/narottam04/step-by-step-guide-how-to-set-up-visual-studio-code-fo
 _**Note:** From the terminal you can type **g++ --version** to verify installation of the compiler._
 
 **3.** **C Development Fundamentals** | $29/mo | 15 hours | ? | **Day 1** <br/>
-I was a developer for 10 years (C#.NET, js, SQL, python) but its been 5 years since I've programmed daily. I'm very rusty. I want to embrace starting from the beginning. I'm using Pluralsights self-paced video lectures: https://app.pluralsight.com/paths/skill/c-development-fundamentals. 
+I was a developer for 10 years (C#.NET, js, SQL, python) but it has been 5 years since I've programmed daily. I'm very rusty. I want to embrace starting from the beginning. I'm using Pluralsight's self-paced video lectures: https://app.pluralsight.com/paths/skill/c-development-fundamentals. 
 Lecture | Rating | Time | Speed | Link 
 ------------- | ------------- | ------------- | ------------- | -------------
 C Language: The Big Picture | 10 | 35 min | 1.1x | https://app.pluralsight.com/course-player?clipId=74fe806e-b69e-49a5-aa64-d3b7b304b589
