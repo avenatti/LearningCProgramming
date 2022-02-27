@@ -5,7 +5,7 @@ Lecture | Cost | Time | Rating | Day
 ------------- | ------------- | ------------- | ------------- | -------------
 Title of Learning Resource | USD | Time Commitment | 1 to 10 (Higher is better) | The day that I studied the resource. This process starts on day 1. 
 <br/>
-<img src="/Img/download.png">
+<img src="/Img/download.png" style="display: block; margin: 0 auto">
 <br/>
 
 ---
