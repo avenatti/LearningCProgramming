@@ -9,7 +9,7 @@ You need to be inspired-->driven-->motivated in order to learn anything. I'm in 
 
 **2.** **C Development Fundamentals** | $29/mo | 15 hours | X of 10 | **Day 1** <br/>
 I was a developer for 10 years (C#.NET, js, SQL, python) but its been 5 years since I've programmed daily. I'm very rusty. I want to embrace starting from the beginning. I'm using Pluralsights self-paced video lectures: https://app.pluralsight.com/paths/skill/c-development-fundamentals. 
-Lecture | Time | Speed | Link
-------------- | ------------- | ------------- | -------------
-C Language: The Big Picture | 35 min | 1.1x | https://app.pluralsight.com/course-player?clipId=74fe806e-b69e-49a5-aa64-d3b7b304b589
-Getting Started with the C Language | 90 min | 1.0x | https://app.pluralsight.com/player?course=getting-started-c-language&author=giovanni-dicanio
+Lecture | Rating | Time | Speed | Link 
+------------- | ------------- | ------------- | ------------- | -------------
+C Language: The Big Picture | 10 of 10 | 35 min | 1.1x | https://app.pluralsight.com/course-player?clipId=74fe806e-b69e-49a5-aa64-d3b7b304b589
+Getting Started with the C Language | X of 10 | 90 min | 1.0x | https://app.pluralsight.com/player?course=getting-started-c-language&author=giovanni-dicanio
