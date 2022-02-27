@@ -11,7 +11,9 @@ We need to be inspired-->driven-->motivated in order to learn anything. I'm in c
 We need an IDE, compiler, and intellisense to practice as we learn. This should be setup now! I favor visual studio code for most projects. It provides a very similiar user experience on Windows, MAC, and Linux. The following article will help you get setup with **VS Code** and the **MinGW** compiler. Conceptual steps are very similar for Linux. I may swap to Ubuntu for developemnt later...thats the OS I normally use for machine learning related tasks...
 https://dev.to/narottam04/step-by-step-guide-how-to-set-up-visual-studio-code-for-c-and-c-programming-2021-1f0i
 
-_**Note:** From the terminal you can type **g++ --version** to verify installation of the compiler._
+_**Note:** Verify Compiler Installation: Windows Key + R. Run cmd. Type **g++ --version** to ._
+![Compiler Verfiy Screenshot](/Img/Screenshot 2022-02-27 134239.png)
+
 
 <br/><br/>
 **3.** **C Development Fundamentals** | $29/mo | 15 hours | ? | **Day 1** <br/>
