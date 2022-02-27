@@ -1,6 +1,10 @@
 # Learning C Programming
 _I'm documenting my experience teaching myself the C programming language. Hopefully you can learn from experiences (good or bad) and optimize your own path. I will explain each resource, note the cost, time commitment, rating (scale from 1-10 where higher numbers are better), and the days I actually made progress._
 
+Lecture | Cost | Time | Rating | Day
+------------- | ------------- | ------------- | ------------- | -------------
+Title of Learning Resource | USD | Time Commitment | 1 to 10 (Higher is better) | The day that I studied the resource. This process starts on day 1. 
+
 ---
 
 **1.** **Build Malware Using C Language** | FREE | 2 hours | 7 | **Day 1** <br/>
