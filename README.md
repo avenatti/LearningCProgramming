@@ -15,8 +15,8 @@ Lecture | Cost | Time | Rating | Day
 ------------- | ------------- | ------------- | ------------- | -------------
 Title of Learning Resource | USD | Time Commitment | 1 to 10 (Higher is better) | The day that I studied the resource. This process starts on day 1.
 
-<br/>
-<br/>
+
+<br/><br/>
 **1.** **Build Malware Using C Language** | FREE | 2 hours | 7 | **Day 1** <br/>
 We need to be inspired-->driven-->motivated in order to learn anything. I'm in cybersecurity so I found the following video leveraging C in my profession. Find an example applicable to your use case. https://www.youtube.com/watch?v=GNARFYdN59w&list=PLDE9OqU7MZWxaSVBz_cLtaVBwrlEUr8TB.
 
