@@ -4,9 +4,9 @@ _I'm documenting my experience teaching myself the C programming language. Hopef
   <br/>
 <em>I want to adopt the folowing objective mindset before we begin...</em>
   <br/>
+  <br/>
   <img src="/Img/download.png" width="225" height="225" style="display: block; margin: 0 auto">
 </p>
-<br/>
 
 ---
 <br/>
