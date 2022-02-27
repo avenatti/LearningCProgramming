@@ -1,4 +1,4 @@
-# LearningCProgramming
+# Learning C Programming
 Documenting my experience teaching myself the C programming language. Hopefully you can learn from experiences (good or bad) and optimize your own path. I will explain each resource, note the cost, time commitment, and rate it on a scale from 1-10 where higher numbers are better.
 
 
