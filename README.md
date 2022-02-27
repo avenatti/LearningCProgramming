@@ -1,17 +1,20 @@
 # Learning C Programming
 _I'm documenting my experience teaching myself the C programming language. Hopefully you can learn from experiences (good or bad) and optimize your own path. I will explain each resource, note the cost, time commitment, rating (scale from 1-10 where higher numbers are better), and the days I actually made progress._
-
-Lecture | Cost | Time | Rating | Day
-------------- | ------------- | ------------- | ------------- | -------------
-Title of Learning Resource | USD | Time Commitment | 1 to 10 (Higher is better) | The day that I studied the resource. This process starts on day 1. 
-<br/>
 <p align="center">
+  <br/>
+  _I want to adopt the folowing objective mindset before we begin... _
+  <br/>
   <img src="/Img/download.png" width="225" height="225" style="display: block; margin: 0 auto">
 </p>
 <br/>
 
 ---
-
+<br/>
+Lecture | Cost | Time | Rating | Day
+------------- | ------------- | ------------- | ------------- | -------------
+Title of Learning Resource | USD | Time Commitment | 1 to 10 (Higher is better) | The day that I studied the resource. This process starts on day 1. 
+<br/>
+<br/>
 **1.** **Build Malware Using C Language** | FREE | 2 hours | 7 | **Day 1** <br/>
 We need to be inspired-->driven-->motivated in order to learn anything. I'm in cybersecurity so I found the following video leveraging C in my profession. Find an example applicable to your use case. https://www.youtube.com/watch?v=GNARFYdN59w&list=PLDE9OqU7MZWxaSVBz_cLtaVBwrlEUr8TB.
 
