@@ -31,7 +31,7 @@ _**Note:** Verify Compiler Installation: Windows Key + R. Run cmd. Type **g++ --
 
 
 <br/><br/>
-**3.** **C Development Fundamentals** | $29/mo | 15 hours | ? | **Day 1-2** <br/>
+**3.** **C Development Fundamentals** | $29/mo | 15 hours | ? | **Day 1-3** <br/>
 I was a developer for 10 years (C#.NET, js, SQL, python) but it has been 5 years since I've programmed daily. I'm very rusty. I want to embrace starting from the beginning. I'm using Pluralsight's self-paced video lectures: https://app.pluralsight.com/paths/skill/c-development-fundamentals. 
 Lecture | Rating | Time | Speed | Day | Link 
 ------------- | ------------- | ------------- | ------------- | ------------- | -------------
