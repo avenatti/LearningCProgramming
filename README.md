@@ -35,6 +35,7 @@ _**Note:** Verify Compiler Installation: Windows Key + R. Run cmd. Type **g++ --
 I was a developer for 10 years (C#.NET, js, SQL, python) but it has been 5 years since I've programmed daily. I'm very rusty. I want to embrace starting from the beginning. I'm using Pluralsight's self-paced video lectures: https://app.pluralsight.com/paths/skill/c-development-fundamentals. 
 Lecture | Rating | Time | Speed | Day | Link 
 ------------- | ------------- | ------------- | ------------- | ------------- | -------------
-C Language: The Big Picture | 10 | 35 min | 1.1x | 1 | https://app.pluralsight.com/course-player?clipId=74fe806e-b69e-49a5-aa64-d3b7b304b589
+C Language: The Big Picture | 10 | 35 min | 1.1x | 1 | https://app.pluralsight.com/library/courses/c-language-big-picture/
 Getting Started with the C Language | 9 | 120 min | 1.0x | 1 | https://app.pluralsight.com/player?course=getting-started-c-language&author=giovanni-dicanio
 Variables and Data Types in C | 8 | 120 min | 1.0x | 2 | https://app.pluralsight.com/library/courses/variables-data-types-c/
+Managing Data and Memory Allocation in C | X | 120 min | 1.0x | 3 | https://app.pluralsight.com/library/courses/managing-data-memory-allocation-c/
