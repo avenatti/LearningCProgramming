@@ -37,5 +37,5 @@ Lecture | Rating | Time | Speed | Day | Link
 ------------- | ------------- | ------------- | ------------- | ------------- | -------------
 C Language: The Big Picture | 10 | 35 min | 1.1x | 1 | https://app.pluralsight.com/library/courses/c-language-big-picture/
 Getting Started with the C Language | 9 | 120 min | 1.0x | 1 | https://app.pluralsight.com/player?course=getting-started-c-language&author=giovanni-dicanio
-Variables and Data Types in C | 8 | 120 min | 1.0x | 2 | https://app.pluralsight.com/library/courses/variables-data-types-c/
+Variables and Data Types in C | 7 | 120 min | 1.0x | 2 | https://app.pluralsight.com/library/courses/variables-data-types-c/
 Managing Data and Memory Allocation in C | X | 120 min | 1.0x | 3 | https://app.pluralsight.com/library/courses/managing-data-memory-allocation-c/
