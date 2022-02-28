@@ -26,7 +26,7 @@ We need an IDE, compiler, and intellisense to practice as we learn. This should 
 https://dev.to/narottam04/step-by-step-guide-how-to-set-up-visual-studio-code-for-c-and-c-programming-2021-1f0i
 
 _**Note:** Verify Compiler Installation: Windows Key + R. Run cmd. Type **g++ --version**._
-<img src="Img/Screenshot%202022-02-27%20134239.png" width="50%">
+<img src="Img/Screenshot%202022-02-27%20134239.png" width="65%">
 
 
 <br/><br/>
