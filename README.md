@@ -42,6 +42,6 @@ Managing Data and Memory Allocation in C | 6 | 120 min | 1.0x | 2-3 | https://ap
 
 <br/><br/>
 **4.** **Javapoint C Pointers** | FREE | ? hours | ? | **Day 4** <br/>
-The trainer for "Managing Data and Memory Allocation in C" was well spoken but the training was ultimately innaffective for me. I need to stop and get supplemental help with pointers. https://www.javatpoint.com/c-pointers
+The trainer for "Managing Data and Memory Allocation in C" was well spoken but the training was not very useful for me. I need to stop and get supplemental help with pointers. I need it presented differently. Let's try: https://www.javatpoint.com/c-pointers
 
 [//]: # ( Using Structures in C | X | 30 min | 1.0x | 4 | https://app.pluralsight.com/library/courses/using-structures-c/ )
