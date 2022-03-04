@@ -40,4 +40,8 @@ Getting Started with the C Language | 9 | 120 min | 1.0x | 1 | https://app.plura
 Variables and Data Types in C | 7 | 120 min | 1.1x | 2 | https://app.pluralsight.com/library/courses/variables-data-types-c/
 Managing Data and Memory Allocation in C | 6 | 120 min | 1.0x | 2-3 | https://app.pluralsight.com/library/courses/managing-data-memory-allocation-c/
 
+<br/><br/>
+**4.** **C Development Fundamentals** | FREE | ? hours | ? | **Day 4** <br/>
+The trainer for "Managing Data and Memory Allocation in C" was well spoken but the training was ultimately innaffective for me. I need to stop and get supplemental help with pointers. https://www.javatpoint.com/c-pointers
+
 [//]: # ( Using Structures in C | X | 30 min | 1.0x | 4 | https://app.pluralsight.com/library/courses/using-structures-c/ )
