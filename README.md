@@ -48,4 +48,4 @@ The trainer for "Managing Data and Memory Allocation in C" was well spoken but t
 
 <br/><br/>
 **5.** **Binky Pointer Fun Video C** | FREE | 0.1 hours | 10 | **Day 4** <br/>
-Harvard CS50 uses this video to introduce C Pointers. Lets watch it twice. https://www.youtube.com/watch?v=5VnDaHBi8dM
+1999 Standford CS video that Harvard CS50 uses to introduce C Pointers. Lets watch it twice. https://www.youtube.com/watch?v=5VnDaHBi8dM
