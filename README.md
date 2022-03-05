@@ -52,4 +52,4 @@ The trainer for "Managing Data and Memory Allocation in C" was well spoken but t
 
 <br/><br/>
 **6.** **The C Programming Language (1988): Chapter 5. Pointers and Arrays** | $30-55 | 1 hour | 10 | **Day 4** <br/>
-One of the best-selling programming books published in the last fifty years, "K&R" has been called everything from the "bible" to "a landmark in computer science" and it has influenced generations of C programmers.  https://www.amazon.com/Programming-Language-PROGRAMMING-LANG-p2-ebook-dp-B009ZUZ9FW/dp/B009ZUZ9FW/
+One of the best-selling programming books published in the last fifty years (available printed or ebook), "K&R" has been called everything from the "bible" to "a landmark in computer science" and it has influenced generations of C programmers.  https://www.amazon.com/Programming-Language-PROGRAMMING-LANG-p2-ebook-dp-B009ZUZ9FW/dp/B009ZUZ9FW/
