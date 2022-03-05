@@ -31,7 +31,7 @@ _**Note:** Verify Compiler Installation: Windows Key + R. Run cmd. Type **g++ --
 
 
 <br/><br/>
-**3.** **C Development Fundamentals** | $29/mo | 15 hours | ? | **Day 1-3** <br/>
+**3.** **C Development Fundamentals** | $29/mo | 6.5 hours | (below) | **Day 1-3** <br/>
 I was a developer for 10 years (C#.NET, js, SQL, python) but it has been 5 years since I've programmed daily. I'm very rusty. I want to embrace starting from the beginning. I'm using Pluralsight's self-paced video lectures: https://app.pluralsight.com/paths/skill/c-development-fundamentals. 
 Lecture | Rating | Time | Speed | Day | Link 
 ------------- | ------------- | ------------- | ------------- | ------------- | -------------
@@ -41,11 +41,15 @@ Variables and Data Types in C | 7 | 120 min | 1.1x | 2 | https://app.pluralsight
 Managing Data and Memory Allocation in C | 6 | 120 min | 1.0x | 2-3 | https://app.pluralsight.com/library/courses/managing-data-memory-allocation-c/
 
 <br/><br/>
-**4.** **Javapoint C Pointers** | FREE | ? hours | 9 | **Day 4** <br/>
+**4.** **Javapoint C Pointers** | FREE | .75 hours | 9 | **Day 4** <br/>
 The trainer for "Managing Data and Memory Allocation in C" was well spoken but the training was not very useful for me. I need to stop and get supplemental help with pointers. Let's try: https://www.javatpoint.com/c-pointers
 
 [//]: # ( Using Structures in C | X | 30 min | 1.0x | 4 | https://app.pluralsight.com/library/courses/using-structures-c/ )
 
 <br/><br/>
-**5.** **Binky Pointer Fun Video C** | FREE | 0.1 hours | 10 | **Day 4** <br/>
+**5.** **Binky Pointer Fun Video C (1999)** | FREE | 0.1 hours | 10 | **Day 4** <br/>
 1999 Standford CS video that Harvard CS50 uses to introduce C Pointers. Lets watch it twice. https://www.youtube.com/watch?v=5VnDaHBi8dM
+
+<br/><br/>
+**6.** **The C Programming Language (1988): Chapter 5. Pointers and Arrays** | $30-55 | 1 hour | 10 | **Day 4** <br/>
+One of the best-selling programming books published in the last fifty years, "K&R" has been called everything from the "bible" to "a landmark in computer science" and it has influenced generations of C programmers.  https://www.amazon.com/Programming-Language-PROGRAMMING-LANG-p2-ebook-dp-B009ZUZ9FW/dp/B009ZUZ9FW/
