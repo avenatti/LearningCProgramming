@@ -71,4 +71,11 @@ void(*p)(int)=&show;
 // Data type	|   3	        |   N/A
 
 // ! Example (Read the pointer): int (*p)[10]
-// 
+// 1. () and [] are equal so left to right therefor ()
+// 2. name and identifier in () are equal so right to left 
+// The pointer will be read as p is a pointer to an array of integers of size 10.
+// char -> 4 , * -> 2, p -> 1, [10] -> 3
+
+// ! Example (read the pointer): int (*p)(int (*)[2], int (*)void))
+// P is a pointer to a function that accepts 1d int array of size two as 1st param 
+// and pointer to function which param is void...return type int
