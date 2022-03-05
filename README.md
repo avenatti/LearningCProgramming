@@ -41,7 +41,7 @@ Variables and Data Types in C | 7 | 120 min | 1.1x | 2 | https://app.pluralsight
 Managing Data and Memory Allocation in C | 6 | 120 min | 1.0x | 2-3 | https://app.pluralsight.com/library/courses/managing-data-memory-allocation-c/
 
 <br/><br/>
-**4.** **Javapoint C Pointers** | FREE | ? hours | 7 | **Day 4** <br/>
+**4.** **Javapoint C Pointers** | FREE | ? hours | 9 | **Day 4** <br/>
 The trainer for "Managing Data and Memory Allocation in C" was well spoken but the training was not very useful for me. I need to stop and get supplemental help with pointers. Let's try: https://www.javatpoint.com/c-pointers
 
 [//]: # ( Using Structures in C | X | 30 min | 1.0x | 4 | https://app.pluralsight.com/library/courses/using-structures-c/ )
